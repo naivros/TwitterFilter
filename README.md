@@ -1,3 +1,5 @@
+# TwitterFilter 
+
 ![Sample Image](https://media.discordapp.net/attachments/194625293309313024/796995598808776775/unknown.png?width=950&height=562)
 
 In the inject.js file, there is an object containing two arrays. 
